@@ -4,7 +4,7 @@
 
 * Uses Huffman Coding for Text Compression
 * Made with JAVASCRIPT , HTML and CSS
-* Website Link : https://devloper-vaibhav.github.io/Text-File-compressor/
+* Website Link : https://devloper-vaibhav.github.io/Text-File-Compressor/
 
 ## About
 
