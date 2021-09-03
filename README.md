@@ -13,4 +13,4 @@
 * Compression ratio usually improves as the file size increases.
 * The website is made responsive (with HTML/CSS and Bootstrap) and interactive (with JavaScript ).
 
-<h2> Website </h2>- https://devloper-vaibhav.io/Text-File-Compressor/
+<h2> Website </h2>- https://devloper-vaibhav.github.io/Text-File-Compressor/
